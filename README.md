@@ -26,5 +26,5 @@ This project is a simple conversational AI chatbot built using [Facebook's Blend
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/chatbot-project.git
+git clone https://github.com/gailchg/terminal-assessment-2.git
 cd chatbot-project
